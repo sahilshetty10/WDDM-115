@@ -1,3 +1,3 @@
 # WDDM-115
 
-Week 2 git practice
+Week 2 git practice.
